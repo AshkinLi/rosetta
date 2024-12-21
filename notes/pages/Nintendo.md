@@ -1,2 +1,3 @@
-- [[Games]]
+- [[Nintendo Music]]
+- [[Nintendo Magazine]]
 -
