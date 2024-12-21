@@ -1,13 +1,27 @@
-on: [push]
+name: Publish Logseq graph
+
+on:
+  push:
+    branches: [ main ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
+
 jobs:
   test:
     runs-on: ubuntu-latest
+
     name: Publish Logseq graph
+
     steps:
       - uses: actions/checkout@v4
+
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
       - uses: logseq/publish-spa@main
         with:
@@ -15,7 +29,7 @@ jobs:
           output-directory: build
 
       - name: Add .nojekyll file
-        run: touch $GITHUB_WORKSPACE/build/.nojekyll
+        run: touch build/.nojekyll
 
       - name: Deploy to gh-pages
         uses: JamesIves/github-pages-deploy-action@v4
