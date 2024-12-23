@@ -25,16 +25,17 @@ jobs:
         uses: logseq/publish-spa@main
         with:
           graph-directory: notes
-          output-directory: www
+          output-directory: build
+          accent-color: indigo
 
       - name: Add .nojekyll file
-        run: touch www/.nojekyll
+        run: touch build/.nojekyll
 
       - name: Deploy to gh-pages
         uses: JamesIves/github-pages-deploy-action@v4.7.2
         with:
           branch: gh-pages
-          folder: www
+          folder: build
           clean: true
           clean-exclude: |
             CNAME
