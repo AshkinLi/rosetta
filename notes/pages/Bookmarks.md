@@ -1,5 +1,55 @@
 - 常用
   id:: 67682396-6a47-468a-88f4-bab8fce81a9f
-	- ![](https://weibo.com/favicon.ico){:height 16, :width 16}  [微博](https://weibo.com/mygroups?gid=4123220279896173)
-	- ![](https://static.zhihu.com/heifetz/favicon.ico){:height 16, :width 16}  [知乎](https://www.zhihu.com/)
--
+	- ![微博](https://weibo.com/favicon.ico){:height 16, :width 16}  [微博](https://weibo.com/mygroups?gid=4123220279896173)
+	- ![知乎](https://static.zhihu.com/heifetz/favicon.ico){:height 16, :width 16}  [知乎](https://www.zhihu.com/)
+	- ![V2EX](https://www.v2ex.com/static/icon-192.png){:height 16, :width 16}  [V2EX](https://www.v2ex.com/)
+- ![Stage1st](https://bbs.saraba1st.com/favicon.ico){:height 16, :width 16}  Stage1st
+	- [游戏论坛](https://bbs.saraba1st.com/2b/forum-4-1.html)
+	- [动漫论坛](https://bbs.saraba1st.com/2b/forum-6-1.html)
+	- [桌明谷](https://bbs.saraba1st.com/2b/forum-75-1.html)
+- ![NGA](https://bbs.nga.cn/favicon.ico){:height 16, :width 16}  NGA
+	- [游戏综合讨论「NGA」](https://bbs.nga.cn/thread.php?fid=414)
+	- [二次元国家地理「NGA」](https://bbs.nga.cn/thread.php?fid=-447601)
+	- [游戏综合讨论「178」](https://nga.178.com/thread.php?fid=414)
+	- [二次元国家地理「178」](https://nga.178.com/thread.php?fid=-447601)
+- ![贴吧](https://tb3.bdstatic.com/public/icon/favicon-v2.ico){:height 16, :width 16}  贴吧
+	- [战锤全面战争](https://tieba.baidu.com/f?kw=战锤全面战争)
+	- [帝国时代](https://tieba.baidu.com/f?kw=帝国时代)
+	- [群星](https://tieba.baidu.com/f?kw=群星)
+	- [Stellaris](https://tieba.baidu.com/f?kw=stellaris)
+	- [十字军之王](https://tieba.baidu.com/f?kw=十字军之王)
+	- [NS 吧](https://tieba.baidu.com/f?kw=ns)
+	- [口袋妖怪](https://tieba.baidu.com/f?kw=口袋妖怪)
+	- [怪物猎人](https://tieba.baidu.com/f?kw=怪物猎人)
+	- [少年 Jump](https://tieba.baidu.com/f?kw=少年jump)
+	- [七龙珠](https://tieba.baidu.com/f?kw=七龙珠)
+	- [历史](https://tieba.baidu.com/f?kw=历史)
+- 资讯
+	- [36 氪](https://36kr.com)
+	- [少数派](https://sspai.com)
+	- [煎蛋网](https://jandan.net)
+	- [IT 之家](https://www.ithome.com/)
+	- [机核网](https://gcores.com)
+	- [游研社](https://yystv.cn)
+	- [篝火营地](https://gouhuo.qq.com)
+	- [旅法师营地](https://iyingdi.com)
+	- [游民星空](https://gamersky.com)
+	- [indienova 独立游戏](https://indienova.com)
+	- [奶牛关](https://cowlevel.net)
+- 资源:
+	- [猫熊](https://mxwljsq.top)
+	- [Z-Library](https://zh.singlelogin.re)
+	- [二次元虫洞](http://www.2cycd.com)
+	- [小众软件](https://appinn.com)
+	- [A姐分享](https://www.ahhhhfs.com)
+	- [老男人游戏网](https://www.oldmantvg.net)
+	- [在线 DOS 游戏](https://dos.zczc.cz)
+- 搜索:
+	- [Telegram 搜索](https://www.telsearch.me)
+	- [Pan 搜索](https://www.pansearch.me)
+- 英语:
+	- [Hacker News](https://news.ycombinator.com)
+	- [9to5Mac](https://9to5mac.com)
+	- [9to5Google](https://9to5google.com)
+	- [Telegram](https://web.telegram.org)
+	- [Hitomi](https://hitomi.la)
