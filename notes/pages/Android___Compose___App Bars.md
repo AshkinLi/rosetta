@@ -27,7 +27,7 @@
 		      }
 		  }
 		  ```
-		  ![appbar-small](https://github.com/user-attachments/assets/abe55c64-9597-481a-8926-449a4eef407e)
+		- ![appbar-small](https://github.com/user-attachments/assets/abe55c64-9597-481a-8926-449a4eef407e)
 	- Center-aligned top app bar
 		- ```kotlin
 		  @Composable
@@ -74,7 +74,7 @@
 		      }
 		  }
 		  ```
-		  ![appbar-centered](https://github.com/user-attachments/assets/8f6a552f-fc7c-4a42-8ea5-398daa8ac1f4)
+		- ![appbar-centered](https://github.com/user-attachments/assets/8f6a552f-fc7c-4a42-8ea5-398daa8ac1f4)
 	- Medium top app bar
 		- ```kotlin
 		  @Composable
@@ -120,7 +120,7 @@
 		      }
 		  }
 		  ```
-		  https://developer.android.com/static/develop/ui/compose/images/components/appbar-scroll.mp4
+		- https://developer.android.com/static/develop/ui/compose/images/components/appbar-scroll.mp4
 	- Large top app bar
 		- ```kotlin
 		  @Composable
@@ -166,4 +166,5 @@
 		      }
 		  }
 		  ```
-		  ![appbar-large](https://github.com/user-attachments/assets/9b587713-c592-4491-a4f2-b29de8572400)
+		- ![appbar-large](https://github.com/user-attachments/assets/9b587713-c592-4491-a4f2-b29de8572400)
+-
