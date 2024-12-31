@@ -30,7 +30,8 @@ jobs:
           theme-mode: dark
 
       - name: Add .nojekyll file
-        run: touch .nojekyll
+        run: |
+          sudo touch .nojekyll
 
       - name: Deploy to gh-pages
         uses: JamesIves/github-pages-deploy-action@v4.7.2
