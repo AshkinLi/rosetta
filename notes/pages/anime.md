@@ -1,0 +1,336 @@
+heading:: true
+tags:: todo list
+
+- 2025
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2024
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+		- TODO ((676c2642-aeea-4526-b443-af0efbc736b2))
+		  heading:: true
+		  :LOGBOOK:
+		  CLOCK: [2024-12-25 Wed 23:50:33]--[2024-12-25 Wed 23:50:34] =>  00:00:01
+		  CLOCK: [2024-12-25 Wed 23:50:35]--[2024-12-25 Wed 23:50:36] =>  00:00:01
+		  CLOCK: [2024-12-25 Wed 23:50:38]
+		  :END:
+		- TODO ((676c3630-36c6-4081-a96d-7a0eb6a34d5e))
+		  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2023
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2022
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2021
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2020
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2019
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2018
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2017
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2016
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2015
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2014
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2013
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2012
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2011
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2010
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2009
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2008
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2007
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2006
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2005
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2005
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2004
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2003
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2002
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2001
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
+- 2000
+  heading:: true
+	- [[秋季番]]
+	  heading:: true
+	- [[夏季番]]
+	  heading:: true
+	- [[春季番]]
+	  heading:: true
+	- [[冬季番]]
+	  heading:: true
+	- [[剧场版]]
+	  heading:: true
