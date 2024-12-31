@@ -15,7 +15,5 @@ heading:: true
 		  heading:: true
 			- [在线商店](https://store.nintendo.com.hk/games/all-released-games)
 			  heading:: true
-- [[Nintendo Music]]
-  heading:: true
 - [[Nintendo Magazine]]
   heading:: true
