@@ -25,7 +25,7 @@ jobs:
         uses: logseq/publish-spa@main
         with:
           accent-color: indigo
-          graph-directory: notes
+          graph-directory: graph
           output-directory: build
           theme-mode: dark
 
