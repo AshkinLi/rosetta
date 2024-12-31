@@ -1,0 +1,44 @@
+name: Publish Logseq graph
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    name: Publish Logseq graph
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: Logseq Publish
+        uses: logseq/publish-spa@main
+        with:
+          accent-color: indigo
+          graph-directory: notes
+          output-directory: build
+          theme-mode: dark
+
+      - name: Add .nojekyll file
+        run: touch .nojekyll
+
+      - name: Deploy to gh-pages
+        uses: JamesIves/github-pages-deploy-action@v4.7.2
+        with:
+          branch: gh-pages
+          folder: build
+          clean: true
+          clean-exclude: |
+            CNAME
+            .nojekyll
+          single-commit: true
