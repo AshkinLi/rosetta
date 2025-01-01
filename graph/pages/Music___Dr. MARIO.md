@@ -5,4 +5,4 @@ platform:: [[GB]]
 year:: [[1990]]
 series:: [[超级马力欧系列]]
 alias:: Nintendo/Music/Dr. MARIO
-tags:: [[Nintendo/Music]]
+tags:: [[Nintendo/Music]], [[soundtrack]]

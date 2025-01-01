@@ -5,4 +5,4 @@ platform:: [[GB]]
 year:: [[1992]]
 series:: [[星之卡比系列]]
 alias:: Nintendo/Music/Kirby's Dream Land
-tags:: [[Nintendo/Music]]
+tags:: [[Nintendo/Music]], [[soundtrack]]

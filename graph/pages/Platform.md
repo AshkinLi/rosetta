@@ -1,4 +1,4 @@
 type:: [[Class]]
 parent:: [[Thing]]
-description:: A framework on which applications may be run
+description:: A hardware which software can run on
 url:: {{docs-base-url Platform}}
