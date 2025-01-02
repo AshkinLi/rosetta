@@ -1,9 +1,9 @@
 - Template:
 	- datePublished:: [[xxxx]]
-	  musicalbum:: [[xxxx]]
-	  tracks:: xx
+	  musicAlbum:: [[xxxx]]
+	  numTracks:: xx
 	  platform:: [[xxxx]]
-	  year:: [[xxxx]]
+	  copyrightYear:: [[xxxx]]
 	  series:: [[xxxx]]
 	  alias:: Nintendo/MusicAlbum/
 	  tags:: [[Nintendo/MusicAlbum]], [[MusicAlbum]]
