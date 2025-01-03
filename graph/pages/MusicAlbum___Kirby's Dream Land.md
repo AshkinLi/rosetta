@@ -6,5 +6,3 @@ copyrightYear:: [[1992]]
 series:: [[星之卡比系列]]
 alias:: Nintendo/MusicAlbum/Kirby's Dream Land
 tags:: [[Nintendo/MusicAlbum]], [[MusicAlbum]]
-
-- # copyrightYear

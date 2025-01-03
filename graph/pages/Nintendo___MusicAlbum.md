@@ -9,6 +9,6 @@
 	  tags:: [[Nintendo/MusicAlbum]], [[MusicAlbum]]
 	  template:: Nintendo MusicAlbum
 - {{query (page-tags [[nintendo/musicalbum]])}}
-  query-properties:: [:datepublished :platform :tracks :musicalbum :year]
+  query-properties:: [:datePublished :musicAlbum :tracks :platform :copyrightYear]
   query-sort-by:: musicalbum
   query-sort-desc:: true

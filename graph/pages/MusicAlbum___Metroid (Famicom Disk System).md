@@ -1,5 +1,5 @@
 datePublished:: [[2024-10-31]]
-musicalbum:: [[Metroid (Famicom Disk System)]]
+musicAlbum:: [[Metroid (Famicom Disk System)]]
 numTracks:: 12
 platform:: [[FC]]
 copyrightYear:: [[1986]]
