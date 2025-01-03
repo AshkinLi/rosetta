@@ -4,5 +4,5 @@ datePublished:: [[2024-10-31]]
 musicAlbum:: [[Kirby's Dream Land]]
 numTracks:: 15
 platform:: [[GB]]
-series:: [[星之卡比系列]]
+gameSeries:: [[星之卡比系列]]
 tags:: [[Nintendo]], [[Nintendo/Soundtrack]], [[MusicAlbum]]
