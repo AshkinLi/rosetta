@@ -4,5 +4,5 @@ numTracks:: 8
 platform:: [[GB]]
 copyrightYear:: [[1990]]
 series:: [[超级马力欧系列]]
-alias:: Nintendo/MusicAlbum/Dr. MARIO
-tags:: [[Nintendo/MusicAlbum]], [[MusicAlbum]]
+alias:: Nintendo/Soundtrack/Dr. MARIO
+tags:: [[Nintendo/Soundtrack]], [[MusicAlbum]]

@@ -4,5 +4,5 @@ numTracks:: 26
 platform:: [[SFC]]
 copyrightYear:: [[1994]]
 series:: [[咚奇刚系列]]
-alias:: Nintendo/MusicAlbum/Donkey Kong Country
-tags:: [[Nintendo/MusicAlbum]], [[MusicAlbum]]
+alias:: Nintendo/Soundtrack/Donkey Kong Country
+tags:: [[Nintendo/Soundtrack]], [[MusicAlbum]]

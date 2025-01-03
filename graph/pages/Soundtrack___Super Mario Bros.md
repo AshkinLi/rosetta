@@ -4,5 +4,5 @@ numTracks:: 16
 platform:: [[FC]]
 copyrightYear:: [[1985]]
 series:: [[超级马力欧系列]]
-alias:: Nintendo/MusicAlbum/Super Mario Bros.
-tags:: [[Nintendo/MusicAlbum]], [[MusicAlbum]]
+alias:: Nintendo/Soundtrack/Super Mario Bros.
+tags:: [[Nintendo/Soundtrack]], [[MusicAlbum]]

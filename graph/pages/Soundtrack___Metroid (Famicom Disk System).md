@@ -4,5 +4,5 @@ numTracks:: 12
 platform:: [[FC]]
 copyrightYear:: [[1986]]
 series:: [[密特罗德系列]]
-alias:: Nintendo/MusicAlbum/Metroid (Famicom Disk System)
-tags:: [[Nintendo/MusicAlbum]], [[MusicAlbum]]
+alias:: Nintendo/Soundtrack/Metroid (Famicom Disk System)
+tags:: [[Nintendo/Soundtrack]], [[MusicAlbum]]
