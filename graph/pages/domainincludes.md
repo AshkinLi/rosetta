@@ -1,3 +1,4 @@
+alias:: domainIncludes
 type:: [[Property]]
 url:: {{docs-base-url domainIncludes}}
 description:: A more useful version of rdfs:domain as it can be one of multiple values
