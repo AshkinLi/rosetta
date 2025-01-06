@@ -97,3 +97,4 @@ heading:: true
 	- [Componse Buttons]([[Compose/Buttons]])
 	  heading:: true
 	- [Compose Floating action button](https://developer.android.com/develop/ui/compose/components/fab)
+	- [Material Floating action buttons](https://m3.material.io/components/floating-action-button/overview)
