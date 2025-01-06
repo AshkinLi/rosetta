@@ -1,6 +1,6 @@
 概览
 heading:: true
-	- 一个浮动操作按钮（FAB）是一个高强调按钮，允许用户在应用程序中执行主要操作。它促进单一、集中的操作，这是用户可能采取的最常见路径，通常固定在屏幕的右下角。
+	- 悬浮操作按钮（FABs）帮助用户执行主要操作
 	  heading:: true
 	- 以下一些常见的场景，可以考虑使用 FAB：
 	  heading:: true
@@ -98,3 +98,4 @@ heading:: true
 	  heading:: true
 	- [Compose Floating action button](https://developer.android.com/develop/ui/compose/components/fab)
 	- [Material Floating action buttons](https://m3.material.io/components/floating-action-button/overview)
+	- [Material Extended FAB](https://m3.material.io/components/extended-fab/overview)

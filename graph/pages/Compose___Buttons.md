@@ -5,7 +5,9 @@ title:: Compose/Buttons
 
 - 概览
   heading:: true
-	- 按钮是基本组件，可让用户触发已定义的操作。按钮有 5 种类型。
+	- 按钮可提示用户界面中的大多数操作
+	  heading:: true
+	- Android Compose 按钮有 5 种类型
 	  heading:: true
 	- ![image](https://gist.github.com/user-attachments/assets/1e77dbff-22aa-4368-b6d7-b747ddffa518)
 	  heading:: true
