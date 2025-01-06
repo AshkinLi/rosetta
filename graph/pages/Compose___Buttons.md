@@ -3,7 +3,7 @@ alias:: Android/Compose/Buttons
 tags:: [[Android]], [[Compose]], [[Components]]
 title:: Compose/Buttons
 
-- Overview
+- 概览
   heading:: true
 	- 按钮是基本组件，可让用户触发已定义的操作。按钮有 5 种类型。
 	  heading:: true
@@ -98,3 +98,4 @@ title:: Compose/Buttons
   heading:: true
 	- [Floating action button]([[Componse/Floating action button]])
 	  heading:: true
+	- [Compose Button](https://developer.android.com/develop/ui/compose/components/button)

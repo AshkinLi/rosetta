@@ -50,7 +50,50 @@ heading:: true
 - Small button
   heading:: true
 	- 创建小型的 FAB，使用 `SmallFloatingActionButton`
+	- ```kotlin
+	  @Composable
+	  fun SmallExample(onClick: () -> Unit) {
+	      SmallFloatingActionButton(
+	          onClick = { onClick() },
+	          containerColor = MaterialTheme.colorScheme.secondaryContainer,
+	          contentColor = MaterialTheme.colorScheme.secondary
+	      ) {
+	          Icon(Icons.Filled.Add, "Small floating action button.")
+	      }
+	  }
+	  ```
+	- ![image](https://gist.github.com/user-attachments/assets/46a93ada-fdca-4435-97a0-8e07f14cbd09)
+- Large button
+  heading:: true
+	- 创建大型的 FAB，使用 `LargeFloatingActionButton`
+	- ```kotlin
+	  @Composable
+	  fun LargeExample(onClick: () -> Unit) {
+	      LargeFloatingActionButton(
+	          onClick = { onClick() },
+	          shape = CircleShape,
+	      ) {
+	          Icon(Icons.Filled.Add, "Large floating action button")
+	      }
+	  }
+	  ```
+	- ![image](https://gist.github.com/user-attachments/assets/b28d3e9e-1863-43ca-aab9-e46e23e0020d)
+- Extended button
+  heading:: true
+	- 可以使用ExtendedFloatingActionButton组件创建更复杂的浮动操作按钮。它与FloatingActionButton的主要区别在于它有专门的图标和文本参数。它们让您创建一个具有更复杂内容的按钮，并且能够适当地缩放以适应其内容。
+	- ```kotlin
+	  @Composable
+	  fun ExtendedExample(onClick: () -> Unit) {
+	      ExtendedFloatingActionButton(
+	          onClick = { onClick() },
+	          icon = { Icon(Icons.Filled.Edit, "Extended floating action button.") },
+	          text = { Text(text = "Extended FAB") },
+	      )
+	  }
+	  ```
+	- ![image](https://gist.github.com/user-attachments/assets/018813b3-0b57-4393-9185-48081f804ace)
 - Additional resources
   heading:: true
 	- [Componse Buttons]([[Compose/Buttons]])
 	  heading:: true
+	- [Compose Floating action button](https://developer.android.com/develop/ui/compose/components/fab)
