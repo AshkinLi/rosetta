@@ -1,0 +1,2 @@
+-
+- {{embed [[Soundtrack/Mario Kart 8 Deluxe]]}}

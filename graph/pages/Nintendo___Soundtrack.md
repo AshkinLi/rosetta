@@ -10,3 +10,5 @@
 	  template:: Nintendo Soundtrack
 - {{query (page-tags [[nintendo/soundtrack]])}}
   query-properties:: [:datepublished :musicalbum :numtracks :platform :copyrightyear]
+  query-sort-by:: musicalbum
+  query-sort-desc:: false
