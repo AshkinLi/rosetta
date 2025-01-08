@@ -9,7 +9,6 @@ platform:: [[iOS]], [[Android]]
 	- 需要任天堂 Switch Online 会员
 - Titles
   heading:: true
-  collapsed:: true
 	- {{query (page-tags [[nintendo/soundtrack]])}}
 	  query-properties:: [:datepublished :musicalbum :numtracks :platform :copyrightyear]
 	  query-sort-by:: musicalbum
