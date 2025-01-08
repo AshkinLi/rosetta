@@ -23,7 +23,7 @@ platform:: [[iOS]], [[Android]]
 	  numTracks:: xx
 	  platform:: [[xxxx]]
 	  gameSeries:: [[xxxx]]
-	  tags:: [[Nintendo]], [[Nintendo Music]], [[MusicAlbum]]
+	  tags:: [[Nintendo]], [[Nintendo/Soundtrack]], [[MusicAlbum]]
 	  template:: Nintendo Soundtrack
 	  heading:: true
 - Additional Resources

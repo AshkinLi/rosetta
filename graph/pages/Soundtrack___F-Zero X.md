@@ -6,4 +6,4 @@ musicAlbum:: [[F-Zero X]]
 numTracks:: 20
 platform:: [[N64]] 
 gameSeries:: [[F-Zero 系列]] 
-tags:: [[Nintendo]], [[Nintendo Music]], [[MusicAlbum]]
+tags:: [[Nintendo]], [[Nintendo/Soundtrack]], [[MusicAlbum]]

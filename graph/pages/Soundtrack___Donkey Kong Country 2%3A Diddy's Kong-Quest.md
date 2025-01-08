@@ -6,4 +6,4 @@ musicAlbum:: [[Donkey Kong Country 2: Diddy's Kong-Quest]]
 numTracks:: 36
 platform:: [[SFC]] 
 gameSeries:: [[咚奇刚系列]]
-tags:: [[Nintendo]], [[Nintendo Music]], [[MusicAlbum]]
+tags:: [[Nintendo]], [[Nintendo/Soundtrack]], [[MusicAlbum]]

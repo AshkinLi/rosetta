@@ -6,4 +6,4 @@ musicAlbum:: [[Brain Age: Train Your Brain in Minutes a Day!]]
 numTracks:: 14
 platform:: [[NDS]]
 gameSeries:: [[脑锻炼系列]]
-tags:: [[Nintendo]], [[Nintendo Music]], [[MusicAlbum]]
+tags:: [[Nintendo]], [[Nintendo/Soundtrack]], [[MusicAlbum]]

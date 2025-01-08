@@ -6,4 +6,4 @@ musicAlbum:: [[超级玛利欧兄弟 惊奇]]
 numTracks:: 86
 platform:: [[Switch]] 
 gameSeries:: [[超级马力欧系列]]
-tags:: [[Nintendo]], [[Nintendo Music]], [[MusicAlbum]]
+tags:: [[Nintendo]], [[Nintendo/Soundtrack]], [[MusicAlbum]]

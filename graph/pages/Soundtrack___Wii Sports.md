@@ -6,4 +6,4 @@ musicAlbum:: [[Wii Sports]]
 numTracks:: 30
 platform:: [[Wii]] 
 gameSeries:: [[Wii Sports]]
-tags:: [[Nintendo]], [[Nintendo Music]], [[MusicAlbum]]
+tags:: [[Nintendo]], [[Nintendo/Soundtrack]], [[MusicAlbum]]
