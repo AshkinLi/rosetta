@@ -3,6 +3,6 @@ datePublished:: [[2024-10-31]]
 copyrightYear:: [[2017]]
 musicAlbum:: [[玛利欧赛车 8 豪华版]]
 numTracks:: 149
-platform:: [[NS]]
+platform:: [[Switch]] 
 gameSeries:: [[马里奥系列]]
 tags:: [[Nintendo]], [[Nintendo/Soundtrack]], [[MusicAlbum]]
