@@ -4,5 +4,5 @@ copyrightYear:: [[2017]]
 musicAlbum:: [[塞尔达传说 旷野之息]]
 numTracks:: 211
 platform:: [[Switch]] 
-gameSeries:: [[塞尔达系列]]
+gameSeries:: [[塞尔达传说系列]]
 tags:: [[Nintendo]], [[Nintendo/Soundtrack]], [[MusicAlbum]]
