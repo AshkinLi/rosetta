@@ -17,9 +17,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        run: git config user.name github-actions[bot] && git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
       - name: Logseq Publish
         uses: logseq/publish-spa@main
@@ -27,11 +25,9 @@ jobs:
           accent-color: indigo
           graph-directory: graph
           output-directory: build
-          theme-mode: dark
 
       - name: Add .nojekyll file
-        run: |
-          sudo touch .nojekyll
+        run: touch .nojekyll
 
       - name: Deploy to gh-pages
         uses: JamesIves/github-pages-deploy-action@v4.7.2
