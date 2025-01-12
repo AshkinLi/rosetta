@@ -2,7 +2,7 @@ heading:: true
 alias:: Android/Compose/App Bars
 tags:: [[Android]], [[Compose]], [[Components]]
 
-- Usage
+- Overview
   heading:: true
 	- 应用栏是屏幕顶部或底部的容器，它们为用户提供访问关键功能和导航项的入口：
 	  heading:: true
@@ -279,7 +279,7 @@ tags:: [[Android]], [[Compose]], [[Components]]
 		  ```
 		- ![image](https://gist.github.com/user-attachments/assets/3d0ab0d5-3367-4752-b563-d99630f573e7)
 		  heading:: true
-- External links
+- Additional resources
   heading:: true
 	- **UI Specs**
 	  heading:: true
