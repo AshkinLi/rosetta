@@ -12,9 +12,4 @@ tags:: [[Operating System]], [[Google]]
 	  heading:: true
 	- [Android Open Source Project](https://source.android.com/)
 	  heading:: true
-- [[Compose]]
-  heading:: true
-	- {{query (namespace [[compose]])}}
-	  query-properties:: [:page]
-	  query-sort-by:: page
-	  query-sort-desc:: true
+- {{embed ((678406bb-e078-4c66-bcb0-8812730918aa))}}

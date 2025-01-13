@@ -22,9 +22,10 @@ jobs:
       - name: Logseq Publish
         uses: logseq/publish-spa@main
         with:
-          accent-color: indigo
+          accent-color: blue
           graph-directory: graph
           output-directory: build
+          theme-mode: dark
 
       - name: Add .nojekyll file
         run: touch .nojekyll

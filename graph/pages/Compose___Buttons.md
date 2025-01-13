@@ -1,7 +1,6 @@
 heading:: true
 alias:: Android/Compose/Buttons
 tags:: [[Android]], [[Compose]], [[Components]]
-title:: Compose/Buttons
 
 - 概览
   heading:: true
