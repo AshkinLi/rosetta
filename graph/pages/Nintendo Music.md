@@ -11,8 +11,8 @@ platform:: [[iOS]], [[Android]]
   heading:: true
 	- {{query (page-tags [[nintendo/soundtrack]])}}
 	  query-properties:: [:datepublished :musicalbum :numtracks :platform :copyrightyear]
-	  query-sort-by:: musicalbum
-	  query-sort-desc:: false
+	  query-sort-by:: datepublished
+	  query-sort-desc:: true
 - Template
   heading:: true
   collapsed:: true
