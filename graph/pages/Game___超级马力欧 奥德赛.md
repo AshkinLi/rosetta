@@ -13,3 +13,5 @@ tags:: [[Nintendo]], [[Nintendo/Game]], [[Game]]
 		- [超级马力欧 奥德赛](https://www.nintendoswitch.com.cn/super_mario_odyssey/)
 		- [超級瑪利歐 奧德賽](https://www.nintendo.com/hk/switch/super_mario_odyssey/)
 		- [スーパーマリオ オデッセイ](https://www.nintendo.com/jp/switch/aaaca/index.html)
+	- Wiki
+		- [Super Mario Odyssey](https://www.mariowiki.com/Super_Mario_Odyssey)
