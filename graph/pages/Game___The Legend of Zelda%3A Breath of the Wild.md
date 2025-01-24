@@ -5,3 +5,5 @@ gameSeries:: [[塞尔达传说系列]]
 platform:: [[Switch]]
 publisher:: [[Nintendo]] 
 tags:: [[Nintendo]], [[Nintendo/Game]], [[Game]]
+
+- {{embed [[Soundtrack/The Legend of Zelda: Breath of the Wild]]}}
