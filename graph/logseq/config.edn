@@ -426,4 +426,4 @@
  :default-home {:page "Contents"}
  :ui/show-brackets? false
  :preferred-format :markdown
- :editor/logical-outdenting? false}
+ :editor/logical-outdenting? true}
