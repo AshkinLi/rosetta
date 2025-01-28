@@ -1,0 +1,7 @@
+alias:: 新超级马力欧兄弟 U, New スーパーマリオブラザーズ U, New Super Mario Bros. U, Nintendo/Game/新超级马力欧兄弟 U
+creator:: [[手冢卓志]]
+datePublished:: [[2012-11-18]]
+gameSeries:: [[超级马力欧系列]]
+platform:: [[Wii U]] 
+publisher:: [[Nintendo]] 
+tags:: [[Nintendo]], [[Nintendo/Game]], [[Game]]
