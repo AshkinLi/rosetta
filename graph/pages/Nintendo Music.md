@@ -15,7 +15,6 @@ platform:: [[iOS]], [[Android]]
 	  query-sort-desc:: true
 - Template
   heading:: true
-  collapsed:: true
 	- alias:: Nintendo/Soundtrack/
 	  datePublished:: [[xxxx]]
 	  copyrightYear:: [[xxxx]]
