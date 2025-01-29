@@ -8,7 +8,6 @@ alias:: 游戏, ゲーム
   heading:: true
 	- alias:: 
 	  creator:: [[xxxx]]
-	  datePublished:: [[xxxx]]
 	  gameSeries:: [[xxxx]]
 	  platform:: [[xxxx]]
 	  publisher:: [[xxxx]] 
