@@ -423,7 +423,6 @@
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-journals? true
  :feature/enable-whiteboards? true
- :default-home {:page "Contents"}
  :ui/show-brackets? false
  :preferred-format :markdown
  :editor/logical-outdenting? true}
