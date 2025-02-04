@@ -1,0 +1,1 @@
+alias:: 超级马力欧 3D 世界, スーパーマリオ 3D ワールド, Super Mario 3D World, 超级马力欧 3D 世界 + 狂怒世界, スーパーマリオ 3D ワールド ＋ フューリーワールド, Super Mario 3D World + Fury World, Nintendo/Game/超级马力欧 3D 世界, Nintendo/Game/超级马力欧 3D 世界 + 狂怒世界
