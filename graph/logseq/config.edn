@@ -71,7 +71,7 @@
 
  ;; Enable whiteboards.
  ;; Default value: true
- ;; :feature/enable-whiteboards? true
+ ;; :feature/enable-whiteboards? false
 
  ;; Disable the journal's built-in 'Scheduled tasks and deadlines' query.
  ;; Default value: false
@@ -422,7 +422,7 @@
  :publishing/all-pages-public? true
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-journals? true
- :feature/enable-whiteboards? true
+ :feature/enable-whiteboards? false
  :ui/show-brackets? false
  :preferred-format :markdown
  :editor/logical-outdenting? true}
