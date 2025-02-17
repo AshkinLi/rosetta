@@ -1,0 +1,1 @@
+alias:: 塞尔达传说 姆吉拉的假面, 塞尔达传说 姆吉拉的假面 3D, ゼルダの伝説 ムジュラの仮面, ゼルダの伝説 ムジュラの仮面, ゼルダの伝説 ムジュラの仮面 3D, The Legend of Zelda: Majora's Mask, The Legend of Zelda: Majora's Mask 3D, Nintendo/Game/塞尔达传说 姆吉拉的假面, Nintendo/Game/塞尔达传说 姆吉拉的假面 3D
