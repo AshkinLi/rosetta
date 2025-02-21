@@ -1,0 +1,1 @@
+alias:: 怪物猎人日记：暖洋洋的猫猫村, 怪物猎人日记：暖洋洋的猫猫村 G, 怪物猎人日记：暖洋洋的猫猫村	DX, モンハン日記 ぽかぽかアイルー村, モンハン日記 ぽかぽかアイルー村 G, モンハン日記 ぽかぽかアイルー村 DX, Monster Hunter Diary: Poka Poka Airou Village, Monster Hunter Diary Poka Poka Airou Village G, Monster Hunter Diary: Poka Poka Airou Village DX
