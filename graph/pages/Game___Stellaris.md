@@ -1,1 +1,1 @@
-alias:: 群星, Stellaris, Paradox/Stellaris, Stellaris/Base game, Steallaris/Expansions, Stellaris/Species packs, Stellaris/Story packs
+alias:: 群星, Stellaris, Paradox/Stellaris, Stellaris/Base game, Stellaris/Expansions, Stellaris/Species packs, Stellaris/Story packs
