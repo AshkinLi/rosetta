@@ -9,11 +9,11 @@ heading:: true
 	  heading:: true
 - Stage1st
   heading:: true
-	- [游戏论坛](https://bbs.saraba1st.com/2b/forum-4-1.html)
+	- [游戏论坛](https://stage1st.com/2b/forum-4-1.html)
 	     heading:: true
-	- [动漫论坛](https://bbs.saraba1st.com/2b/forum-6-1.html)
+	- [动漫论坛](https://stage1st.com/2b/forum-6-1.html)
 	     heading:: true
-	- [桌明谷](https://bbs.saraba1st.com/2b/forum-75-1.html)
+	- [桌明谷](https://stage1st.com/2b/forum-75-1.html)
 	     heading:: true
 - NGA
   heading:: true

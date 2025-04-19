@@ -29,8 +29,8 @@
 /* endregion: V2EX */
 
 /* region: Saraba1st */
-.external-link[href*="bbs.saraba1st.com"]::before {
-    content: url("https://bbs.saraba1st.com/favicon.ico");
+.external-link[href*="stage1st.com"]::before {
+    content: url("https://stage1st.com/favicon.ico");
 }
 
 /* endregion: Saraba1st */
