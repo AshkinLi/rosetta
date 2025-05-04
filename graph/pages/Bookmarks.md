@@ -27,6 +27,14 @@ heading:: true
 	     heading:: true
 - 贴吧
   heading:: true
+	- 宝可梦
+	  heading:: true
+		- [口袋妖怪](https://tieba.baidu.com/f?kw=口袋妖怪)
+		  heading:: true
+		- [宠物小精灵](https://tieba.baidu.com/f?kw=%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%B2%BE%E7%81%B5)
+		  heading:: true
+		- [神奇宝贝](https://tieba.baidu.com/f?kw=%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D)
+		  heading:: true
 	- [战锤全面战争](https://tieba.baidu.com/f?kw=战锤全面战争)
 	     heading:: true
 	- [帝国时代](https://tieba.baidu.com/f?kw=帝国时代)
@@ -38,8 +46,6 @@ heading:: true
 	- [十字军之王](https://tieba.baidu.com/f?kw=十字军之王)
 	     heading:: true
 	- [NS 吧](https://tieba.baidu.com/f?kw=ns)
-	     heading:: true
-	- [口袋妖怪](https://tieba.baidu.com/f?kw=口袋妖怪)
 	     heading:: true
 	- [怪物猎人](https://tieba.baidu.com/f?kw=怪物猎人)
 	     heading:: true
