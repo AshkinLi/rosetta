@@ -15,16 +15,24 @@ heading:: true
 	     heading:: true
 	- [桌明谷](https://stage1st.com/2b/forum-75-1.html)
 	     heading:: true
-- NGA
+- 艾泽拉斯国家地理
   heading:: true
-	- [游戏综合讨论「NGA」](https://bbs.nga.cn/thread.php?fid=414)
-	     heading:: true
-	- [二次元国家地理「NGA」](https://bbs.nga.cn/thread.php?fid=-447601)
-	     heading:: true
-	- [游戏综合讨论「178」](https://nga.178.com/thread.php?fid=414)
-	     heading:: true
-	- [二次元国家地理「178」](https://nga.178.com/thread.php?fid=-447601)
-	     heading:: true
+	- NGA
+	  heading:: true
+		- [游戏综合讨论](https://bbs.nga.cn/thread.php?fid=414)
+		  heading:: true
+		- [二次元国家地理](https://bbs.nga.cn/thread.php?fid=-447601)
+		  heading:: true
+		- [精灵宝可梦系列游戏讨论区](https://bbs.nga.cn/thread.php?fid=-452227)
+		  heading:: true
+	- 178
+	  heading:: true
+		- [游戏综合讨论](https://nga.178.com/thread.php?fid=414)
+		  heading:: true
+		- [二次元国家地理](https://nga.178.com/thread.php?fid=-447601)
+		  heading:: true
+		- [精灵宝可梦系列游戏讨论区](https://nga.178.com/thread.php?fid=-452227)
+		  heading:: true
 - 贴吧
   heading:: true
 	- 宝可梦
@@ -35,15 +43,17 @@ heading:: true
 		  heading:: true
 		- [神奇宝贝](https://tieba.baidu.com/f?kw=%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D)
 		  heading:: true
+	- P 社
+	  heading:: true
+		- [群星](https://tieba.baidu.com/f?kw=群星)
+		     heading:: true
+		- [Stellaris](https://tieba.baidu.com/f?kw=stellaris)
+		     heading:: true
+		- [十字军之王](https://tieba.baidu.com/f?kw=十字军之王)
+		     heading:: true
 	- [战锤全面战争](https://tieba.baidu.com/f?kw=战锤全面战争)
 	     heading:: true
 	- [帝国时代](https://tieba.baidu.com/f?kw=帝国时代)
-	     heading:: true
-	- [群星](https://tieba.baidu.com/f?kw=群星)
-	     heading:: true
-	- [Stellaris](https://tieba.baidu.com/f?kw=stellaris)
-	     heading:: true
-	- [十字军之王](https://tieba.baidu.com/f?kw=十字军之王)
 	     heading:: true
 	- [NS 吧](https://tieba.baidu.com/f?kw=ns)
 	     heading:: true
