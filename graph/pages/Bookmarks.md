@@ -23,26 +23,14 @@ heading:: true
 		  heading:: true
 		- [二次元国家地理](https://bbs.nga.cn/thread.php?fid=-447601)
 		  heading:: true
-		- [精灵宝可梦系列游戏讨论区](https://bbs.nga.cn/thread.php?fid=-452227)
-		  heading:: true
 	- 178
 	  heading:: true
 		- [游戏综合讨论](https://nga.178.com/thread.php?fid=414)
 		  heading:: true
 		- [二次元国家地理](https://nga.178.com/thread.php?fid=-447601)
 		  heading:: true
-		- [精灵宝可梦系列游戏讨论区](https://nga.178.com/thread.php?fid=-452227)
-		  heading:: true
 - 贴吧
   heading:: true
-	- 宝可梦
-	  heading:: true
-		- [口袋妖怪](https://tieba.baidu.com/f?kw=口袋妖怪)
-		  heading:: true
-		- [宠物小精灵](https://tieba.baidu.com/f?kw=%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%B2%BE%E7%81%B5)
-		  heading:: true
-		- [神奇宝贝](https://tieba.baidu.com/f?kw=%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D)
-		  heading:: true
 	- P 社
 	  heading:: true
 		- [群星](https://tieba.baidu.com/f?kw=群星)
