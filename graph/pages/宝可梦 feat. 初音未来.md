@@ -1,8 +1,8 @@
+heading:: true
 alias:: 宝可初音, ポケミク, Project Voltage
-website:: https://www.project-voltage.jp/
+website:: https://www.project-voltage.jp
 twitter:: https://twitter.com/PokeMikuVOLTAGE
 title:: 宝可梦 feat. 初音未来
-heading:: true
 
 - 乐曲
   heading:: true

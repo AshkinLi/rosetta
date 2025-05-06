@@ -30,7 +30,8 @@ heading:: true
 		  heading:: true
 	- 音乐
 	  heading:: true
-		- [宝可梦 feat. 初音未来](https://www.project-voltage.jp/)
+		- [[宝可梦 feat. 初音未来]]
+		  heading:: true
 	- 其他
 	  heading:: true
 		- [宝可梦当地 Acts](https://local.pokemon.jp/sc)
@@ -50,14 +51,12 @@ heading:: true
 			  heading:: true
 			- [神奇宝贝](https://tieba.baidu.com/f?kw=%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D)
 			  heading:: true
-		- 艾泽拉斯国家地理
+		- NGA
 		  heading:: true
 			- [精灵宝可梦系列游戏讨论区](https://bbs.nga.cn/thread.php?fid=-452227)
 			  heading:: true
-			- [精灵宝可梦系列游戏讨论区](https://nga.178.com/thread.php?fid=-452227)
+			- [精灵宝可梦系列游戏讨论区（178）](https://nga.178.com/thread.php?fid=-452227)
 			  heading:: true
 - Music
   heading:: true
-	- [[宝可梦 feat. 初音未来]]
-	  heading:: true
 - heading:: true
