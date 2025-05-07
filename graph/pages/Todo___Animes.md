@@ -17,7 +17,7 @@ tags:: todo list
   heading:: true
 	- [[秋季番]]
 	  heading:: true
-		- TODO ((676c2642-aeea-4526-b443-af0efbc736b2))
+		- DONE ((676c2642-aeea-4526-b443-af0efbc736b2))
 		  heading:: true
 		  :LOGBOOK:
 		  CLOCK: [2024-12-25 Wed 23:50:33]--[2024-12-25 Wed 23:50:34] =>  00:00:01

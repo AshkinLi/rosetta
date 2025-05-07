@@ -1,2 +1,1 @@
-[[Animes]]
 heading:: true
