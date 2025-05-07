@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["编年史" "android" "bookmarks" "contents" "nintendo" "nintendo/direct" "pokémon" "tags"]
+ :favorites ["编年史" "android" "bookmarks" "contents" "nintendo" "nintendo/direct" "pokémon"]
 
  ;; Set flashcards interval.
  ;; Expected value:
