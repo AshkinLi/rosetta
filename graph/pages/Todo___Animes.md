@@ -75,27 +75,67 @@ tags:: todo list
   heading:: true
 	- [[秋季番]]
 	  heading:: true
+		- DONE 葬送的芙莉莲
 	- [[夏季番]]
 	  heading:: true
+		- DONE 无职转生 II ～到了异世界就拿出真本事～(前半)
+		- DONE 僵尸百分百～变成僵尸前想做的100件事～
 		- DONE BanG Dream! It's MyGO!!!!!
+		- TODO 死神 千年血战篇-诀别谭-
+		- TODO 文豪野犬 5th SEASON
 	- [[春季番]]
 	  heading:: true
+		- DONE 我推的孩子 第 1 季
 	- [[冬季番]]
 	  heading:: true
+		- TODO 尼尔：自动人形 Ver1.1a
+		- TODO JOJO的奇妙冒险 石之海 Part.3
+		- TODO 宝可梦 旅途 目标是宝可梦大师
+		- TODO 进击的巨人 The Final Season 完结篇（前篇）
+		- TODO 虚构推理 Season2
+		- TODO 文豪野犬 4th SEASON
+		- TODO 在地下城寻求邂逅是否搞错了什么 IV 深章 灾厄篇
+		- TODO 别当欧尼酱了！
 	- [[剧场版]]
 	  heading:: true
+		- DONE GRIDMAN UNIVERSE
+		- DONE 名侦探柯南 灰原哀物语 ～黑铁的神秘火车～
+		- DONE 名侦探柯南 黑铁的鱼影
+		- TODO 剧场版 PSYCHO-PASS 心理测量者 PROVIDENCE
+		- DONE 生化危机：死亡岛
+		- TODO 青春猪头少年不做小学美少女的梦
+		- DONE 剧场版 转生成为了只有乙女游戏破灭 Flag 的邪恶大小姐
+		- TODO 剧场版 间谍过家家 CODE: White
 - 2022
   heading:: true
 	- [[秋季番]]
 	  heading:: true
+		- DONE 蓝色监狱
+		- DONE 孤独摇滚
+		- DONE 赛博朋克 边缘行者
+		- TODO 想要成为影之实力者！
 	- [[夏季番]]
 	  heading:: true
+		- DONE 在异世界迷宫开后宫
+		- DONE 莉可丽丝（Lycoris Recoil）
+		- TODO 来自深渊 烈日的黄金乡
 	- [[春季番]]
 	  heading:: true
+		- DONE 夏日重现
 	- [[冬季番]]
 	  heading:: true
+		- TODO JOJO的奇妙冒险 石之海
+		- TODO 进击的巨人 The Final Season Part.2
+		- TODO 终末的后宫
+		- TODO 更衣人偶坠入爱河
 	- [[剧场版]]
 	  heading:: true
+		- DONE 名侦探柯南 万圣节的新娘
+		- DONE 龙珠超 SUPER HERO
+		- DONE ONE PIECE FILM RED
+		- TODO 铃芽之旅
+		- TODO 剧场版 关于我转生变成史莱姆这档事 红莲之绊篇
+		- TODO THE FIRST SLAM DUNK
 - 2021
   heading:: true
 	- [[秋季番]]
