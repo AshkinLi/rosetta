@@ -33,7 +33,7 @@ jobs:
         run: touch $GITHUB_WORKSPACE/build/.nojekyll
 
       - name: Deploy to gh-pages
-        uses: JamesIves/github-pages-deploy-action@v4.7.2
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: build
