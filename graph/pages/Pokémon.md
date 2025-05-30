@@ -14,7 +14,10 @@ heading:: true
 		  heading:: true
 	- 游戏
 	  heading:: true
-		-
+		- 宝可梦传说系列
+		  heading:: true
+			- [宝可梦传说 Z-A（简）](https://www.pokemon.co.jp/ex/legends_z-a/sc/)
+			  heading:: true
 	- 影视
 	  heading:: true
 		- [宝可梦动画（日）](https://www.pokemon.co.jp/tv_movie)
