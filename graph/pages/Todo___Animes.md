@@ -140,26 +140,89 @@ tags:: todo list
   heading:: true
 	- [[秋季番]]
 	  heading:: true
+		- TODO Muv-Luv Alternative
+		- TODO 鬼灭之刃 无限列车篇
+		- TODO 鬼灭之刃 游郭篇
+		- TODO 结城友奈是勇者 -大满开之章-
+		- TODO 境界触发者 3rd season
+		- TODO 白金终局
+		- TODO 国王排名
+		- TODO 无职转生～到了异世界就拿出真本事～(后半)
+		- TODO 高达破坏者 战斗记录
 	- [[夏季番]]
 	  heading:: true
+		- TODO 魔法纪录 魔法少女小圆外传 2nd SEASON -觉醒前夜-
+		- TODO 关于我转生变成史莱姆这档事 第 2 期第 2 部
+		- TODO 生化危机 无尽暗黑
 	- [[春季番]]
 	  heading:: true
+		- TODO 通灵王(第 2 作)
+		- TODO 转生史莱姆日记 关于我转生变成史莱姆这档事
+		- DONE SSSS.DYNAZENON
 	- [[冬季番]]
 	  heading:: true
+		- TODO 工作细胞!!
+		- TODO 工作细胞 BLACK
+		- TODO 五等分的新娘 ∬
+		- DONE Re:从零开始的异世界生活 2nd season(后半)
+		- TODO 关于我转生后成为史莱姆的那件事 第 2 期第 1 部
+		- DONE 回复术士的重启人生
+		- DONE 无职转生 ～到了异世界就拿出真本事～
 	- [[剧场版]]
 	  heading:: true
+		- TODO 银魂 THE FINAL
+		- TODO Princess Principal Crown Handler 第 1 章
+		- TODO Princess Principal Crown Handler 第 2 章
+		- DONE 新·福音战士剧场版 𝄇
+		- DONE 名侦探柯南 绯色的子弹
+		- TODO 剧场版 Fate/Grand Order -神圣圆桌领域卡美洛- 后篇 Paladin; Agateram
+		- TODO 剧场版 七大罪 被光诅咒的人们
+		- TODO 剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 没有名字的少女
+		- TODO 剧场版 超时空要塞 Δ 绝对 LIVE!!!!!!
 - 2020
   heading:: true
 	- [[秋季番]]
 	  heading:: true
+		- TODO 关于我转生变成史莱姆这档事 2 期
+		- TODO 魔法科高中的劣等生 来访者篇
+		- TODO 半妖的夜叉姬
+		- TODO 在地下城寻求邂逅是否搞错了什么 III
+		- DONE 咒术回战
+		- DONE 排球少年!! TO THE TOP(第 2 季度)
+		- TODO 勇者斗恶龙 达伊的大冒险(第 2 作)
 	- [[夏季番]]
 	  heading:: true
+		- TODO 我的青春恋爱物语果然有问题。完
+		- DONE 刀剑神域 Alicization War of Underworld 2nd season
+		- TODO 食戟之灵 豪之皿
+		- DONE Re:从零开始的异世界生活 2nd season
+		- TODO 弩级战队 H×EROS
+		- DONE 彼得·格里尔的贤者时间
 	- [[春季番]]
 	  heading:: true
+		- TODO 新樱花大战 the Animation
+		- TODO 魔神英雄传 七魂的龙神丸
+		- TODO 数码宝贝大冒险:
+		- TODO 公主连结 Re:Dive
+		- TODO 新樱花大战 the Animation
+		- TODO BNA
+		- TODO LISTENERS
 	- [[冬季番]]
 	  heading:: true
+		- TODO 魔法纪录 魔法少女小圆外传
+		- DONE 某科学的超电磁炮 T
+		- TODO 地缚少年花子君
+		- TODO 达尔文游戏
+		- TODO 怕痛的我，把防御力点满就对了
+		- TODO 异度入侵（ID:INVADED）
 	- [[剧场版]]
 	  heading:: true
+		- TODO 鬼灭之刃 无限列车篇
+		- DONE 数码宝贝大冒险 最后的进化 绊
+		- TODO PSYCHO-PASS 心理测量者 3 FIRST INSPECTOR
+		- TODO 剧场版 Fate/stay night \[Heaven's Feel\] III.spring song
+		- TODO 剧场版 紫罗兰永恒花园
+		- TODO 剧场版 Fate/Grand Order -神圣圆桌领域卡美洛- 前篇 Wandering; Agateram
 - 2019
   heading:: true
 	- [[秋季番]]

@@ -14,9 +14,10 @@ jobs:
     name: Publish Logseq graph
 
     steps:
-      - uses: actions/checkout@v4
+      - name: 🛎 Checkout
+        uses: actions/checkout@v4
 
-      - name: Logseq Publish
+      - name: 🔧 Logseq Publish
         uses: logseq/publish-spa@main
         with:
           accent-color: indigo
@@ -27,7 +28,7 @@ jobs:
       - name: Add .nojekyll file
         run: touch $GITHUB_WORKSPACE/build/.nojekyll
 
-      - name: Deploy to gh-pages
+      - name: 🚀 Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
