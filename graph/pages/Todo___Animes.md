@@ -13,6 +13,7 @@ tags:: todo list
 	  heading:: true
 	- [[剧场版]]
 	  heading:: true
+		- TODO 名侦探柯南：独眼的残像
 - 2024
   heading:: true
 	- [[秋季番]]
@@ -55,14 +56,14 @@ tags:: todo list
 		- TODO GIRLS BAND CRY
 	- [[冬季番]]
 	  heading:: true
-		- TODO 迷宫饭
+		- DONE 迷宫饭
 		- TODO 药屋少女的呢喃
 	- [[剧场版]]
 	  heading:: true
 		- TODO 伤物语 -历吸血鬼-
 		- TODO 机动战士高达 SEED FREEDOM
 		- TODO 排球少年！！垃圾场决战
-		- DONE 名侦探柯南 100 万美元的五棱星
+		- DONE 名侦探柯南：百万美元的五棱星
 		- TODO 剧场版蓝色监狱 -EPIOSODE 凪-
 		- TODO Code Geass 夺还的罗塞 第 1 幕
 		- TODO Code Geass 夺还的罗塞 第 2 幕
