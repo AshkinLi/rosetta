@@ -290,14 +290,64 @@ tags:: todo list
   heading:: true
 	- [[秋季番]]
 	  heading:: true
+		- DONE 刀剑神域 Alicization
+		- TODO 魔法禁书目录 III
+		- TODO JOJO 的奇妙冒险 黄金之风
+		- TODO 妖精的尾巴 Final Series
+		- TODO 东京食尸鬼:re 2 期
+		- DONE 关于我转生变成史莱姆这档事
+		- DONE 青春猪头少年不会梦到兔女郎学姐
+		- DONE 哥布林杀手
+		- TODO 逆转裁判 对这个“真实”有异议! Season2
+		- TODO 叛逆性百万亚瑟王
+		- TODO 强风吹拂
+		- DONE SSSS.GRIDMAN
 	- [[夏季番]]
 	  heading:: true
+		- TODO 进击的巨人 season 3
+		- DONE OVERLORD III
+		- TODO 摇曳庄的幽奈小姐
+		- TODO 工作细胞
+		- DONE 高分少女
 	- [[春季番]]
 	  heading:: true
+		- DONE 命运石之门 0
+		- TODO 刀剑神域外传 Gun Gale Online
+		- TODO 食戟之灵 餐之皿 远月列车篇
+		- TODO 东京食尸鬼:re
+		- DONE 女神异闻录 5 the Animation
+		- TODO 高达 Build Divers
+		- TODO 鬼灯的冷彻 第贰期 其之贰
+		- TODO 恶魔高校 D×D HERO
+		- TODO 异世界魔王与召唤少女的奴隶魔术
 	- [[冬季番]]
 	  heading:: true
+		- DONE 魔卡少女樱 透明牌篇
+		- TODO 卫宫家今天的饭
+		- TODO Fate/EXTRA Last Encore
+		- TODO 紫罗兰永恒花园
+		- TODO 七大罪 戒律的复活
+		- TODO 齐木楠雄的灾难 2 期
+		- DONE OVERLORD II
+		- DONE DARLING in the FRANXX
+		- TODO 粗点心战争 2
+		- TODO POP TEAM EPIC
+		- TODO 龙王的工作!
+		- TODO 比宇宙更远的地方
 	- [[剧场版]]
 	  heading:: true
+		- TODO 电影 中二病也要谈恋爱! -Take OnMe-
+		- TODO 超时空要塞Δ 激情的Walküre
+		- TODO Code Geass 反叛的鲁路修 II 叛道
+		- TODO 文豪野犬 DEAD APPLE
+		- TODO 名侦探柯南 零的执行人
+		- TODO 数码宝贝大冒险 tri. 第 6 章 我们的未来
+		- TODO 忍者蝙蝠侠
+		- DONE 精灵宝可梦 大家的故事
+		- TODO 七大罪 天空的囚人
+		- TODO Re:从零开始的异世界生活 Memory Snow
+		- TODO 机动战士高达 NT
+		- DONE 龙珠超 布罗利
 - 2017
   heading:: true
 	- [[秋季番]]
