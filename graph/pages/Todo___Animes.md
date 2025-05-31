@@ -228,14 +228,64 @@ tags:: todo list
   heading:: true
 	- [[秋季番]]
 	  heading:: true
+		- TODO 心理测量者 3
+		- TODO 刀剑神域 Alicization War of Underworld
+		- TODO Fate/Grand Order - 绝对魔兽战线巴比伦尼亚
+		- TODO 碧蓝幻想 The AnimationSeason2
+		- DONE 高分少女 II
+		- TODO 食戟之灵 神之皿
+		- TODO 七大罪 诸神的逆鳞
+		- TODO 梦幻之星 Online2EPISODE ORACLE
+		- TODO 高达 Build DiversRe:RISE
+		- DONE 慎重勇者～这个勇者明明超 TUEEE 却过度谨慎～
+		- TODO BEASTARS
+		- CANCELLED 喜欢本大爷的竟然就你一个？（看完前三话）
 	- [[夏季番]]
 	  heading:: true
+		- DONE Dr.STONE
+		- TODO 在地下城寻求邂逅是否搞错了什么 II
+		- TODO 君主·埃尔梅罗二世事件簿 -魔眼搜集列车 Grace note-
+		- TODO 某科学的一方通行
+		- TODO SD高达世界 三国创杰传
+		- TODO 海盗战记
 	- [[春季番]]
 	  heading:: true
+		- TODO 一拳超人 2
+		- TODO 进击的巨人 Season 3Part.2
+		- DONE 鬼灭之刃
+		- TODO 续·终物语
+		- TODO 机动战士高达 THE ORIGIN 前夜 红色彗星
+		- TODO 叛逆性百万亚瑟王 2 期
 	- [[冬季番]]
 	  heading:: true
+		- TODO 约定的梦幻岛
+		- TODO 约会大作战 III
+		- TODO 五等分的花嫁
+		- TODO 盾之勇者成名录
+		- TODO 狂赌之渊 ××
+		- TODO 忧郁的物怪庵 续
+		- TODO 同居人是猫
 	- [[剧场版]]
 	  heading:: true
+		- TODO Fate/staynight \[Heaven's Feel\] II.lost butterfly
+		- TODO 剧场版 幼女战记
+		- TODO Code Geass 复活的鲁路修
+		- TODO 在地下城寻求邂逅是否搞错了什么 -俄里翁之箭-
+		- TODO 心理测量者 Sinners of theSystem Case.1 罪与罚
+		- TODO 心理测量者 Sinners of theSystem Case.2 First Guardian
+		- TODO 心理测量者 Sinners of theSystem Case.3 恩仇的彼方
+		- DONE 名侦探柯南 绀青之拳
+		- DONE 甲铁城的卡巴内利 ～海门决战～
+		- TODO 青春猪头少年不会梦到怀梦美少女
+		- DONE 精灵宝可梦 超梦的逆袭 EVOLUTION
+		- DONE ONE PIECE STAMPEDE
+		- TODO 二之国
+		- TODO 为美好的世界献上祝福! 红传说
+		- TODO 紫罗兰永恒花园 外传 —永远与自动手记人偶—
+		- TODO 路人女主的养成方法 Fine
+		- DONE Re: 从零开始的异世界生活 冰结之绊
+		- TODO 剧场版 高达 G之复国运动 I 去吧!Core Fighter
+		- TODO Promare
 - 2018
   heading:: true
 	- [[秋季番]]
