@@ -54,6 +54,7 @@ tags:: todo list
 		- DONE 怪兽 8 号
 		- DONE 无职转生 II～到了异世界就拿出真本事～(后半)
 		- TODO GIRLS BAND CRY
+		- DONE 为美好的世界献上祝福! 3
 	- [[冬季番]]
 	  heading:: true
 		- DONE 迷宫饭
@@ -87,6 +88,7 @@ tags:: todo list
 	- [[春季番]]
 	  heading:: true
 		- DONE 我推的孩子 第 1 季
+		- DONE 为美好的世界献上爆焰！
 	- [[冬季番]]
 	  heading:: true
 		- TODO 尼尔：自动人形 Ver1.1a
@@ -208,6 +210,7 @@ tags:: todo list
 		- TODO 新樱花大战 the Animation
 		- TODO BNA
 		- TODO LISTENERS
+		- DONE 食戟之灵 豪之皿
 	- [[冬季番]]
 	  heading:: true
 		- TODO 魔法纪录 魔法少女小圆外传
@@ -233,7 +236,7 @@ tags:: todo list
 		- TODO Fate/Grand Order - 绝对魔兽战线巴比伦尼亚
 		- TODO 碧蓝幻想 The AnimationSeason2
 		- DONE 高分少女 II
-		- TODO 食戟之灵 神之皿
+		- DONE 食戟之灵 神之皿
 		- TODO 七大罪 诸神的逆鳞
 		- TODO 梦幻之星 Online2EPISODE ORACLE
 		- TODO 高达 Build DiversRe:RISE
@@ -276,11 +279,11 @@ tags:: todo list
 		- TODO 心理测量者 Sinners of theSystem Case.3 恩仇的彼方
 		- DONE 名侦探柯南 绀青之拳
 		- DONE 甲铁城的卡巴内利 ～海门决战～
-		- TODO 青春猪头少年不会梦到怀梦美少女
+		- DONE 青春猪头少年不会梦到怀梦美少女
 		- DONE 精灵宝可梦 超梦的逆袭 EVOLUTION
 		- DONE ONE PIECE STAMPEDE
 		- TODO 二之国
-		- TODO 为美好的世界献上祝福! 红传说
+		- DONE 为美好的世界献上祝福! 红传说
 		- TODO 紫罗兰永恒花园 外传 —永远与自动手记人偶—
 		- TODO 路人女主的养成方法 Fine
 		- DONE Re: 从零开始的异世界生活 冰结之绊
@@ -313,7 +316,7 @@ tags:: todo list
 	  heading:: true
 		- DONE 命运石之门 0
 		- TODO 刀剑神域外传 Gun Gale Online
-		- TODO 食戟之灵 餐之皿 远月列车篇
+		- DONE 食戟之灵 餐之皿 远月列车篇
 		- TODO 东京食尸鬼:re
 		- DONE 女神异闻录 5 the Animation
 		- TODO 高达 Build Divers
@@ -327,7 +330,7 @@ tags:: todo list
 		- TODO Fate/EXTRA Last Encore
 		- TODO 紫罗兰永恒花园
 		- TODO 七大罪 戒律的复活
-		- TODO 齐木楠雄的灾难 2 期
+		- DONE 齐木楠雄的灾难 2 期
 		- DONE OVERLORD II
 		- DONE DARLING in the FRANXX
 		- TODO 粗点心战争 2
@@ -340,24 +343,26 @@ tags:: todo list
 		- TODO 超时空要塞Δ 激情的Walküre
 		- TODO Code Geass 反叛的鲁路修 II 叛道
 		- TODO 文豪野犬 DEAD APPLE
-		- TODO 名侦探柯南 零的执行人
+		- DONE 名侦探柯南 零的执行人
 		- TODO 数码宝贝大冒险 tri. 第 6 章 我们的未来
 		- TODO 忍者蝙蝠侠
 		- DONE 精灵宝可梦 大家的故事
 		- TODO 七大罪 天空的囚人
-		- TODO Re:从零开始的异世界生活 Memory Snow
+		- DONE Re:从零开始的异世界生活 Memory Snow
 		- TODO 机动战士高达 NT
 		- DONE 龙珠超 布罗利
 - 2017
   heading:: true
 	- [[秋季番]]
 	  heading:: true
+		- DONE 食戟之灵 餐之皿 前半
 	- [[夏季番]]
 	  heading:: true
 	- [[春季番]]
 	  heading:: true
 	- [[冬季番]]
 	  heading:: true
+		- DONE 为美好的世界献上祝福! 2
 	- [[剧场版]]
 	  heading:: true
 - 2016
@@ -366,10 +371,12 @@ tags:: todo list
 	  heading:: true
 	- [[夏季番]]
 	  heading:: true
+		- DONE 食戟之灵 贰之皿
 	- [[春季番]]
 	  heading:: true
 	- [[冬季番]]
 	  heading:: true
+		- DONE 为美好的世界献上祝福!
 	- [[剧场版]]
 	  heading:: true
 - 2015
@@ -380,6 +387,7 @@ tags:: todo list
 	  heading:: true
 	- [[春季番]]
 	  heading:: true
+		- DONE 食戟之灵
 	- [[冬季番]]
 	  heading:: true
 	- [[剧场版]]
